@@ -1,4 +1,8 @@
-## Hi there 👋
+💖 Hi there! I'm buddha Son. (❁´◡`❁)
+
+🌸 ***Most of my work happens in my secret little coding garden*** 🌷✨
+
+🐰 Currently working with 
 
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
